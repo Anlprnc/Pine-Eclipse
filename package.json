@@ -1,0 +1,22 @@
+{
+  "name": "pine-eclipse",
+  "displayName": "Pine Eclipse",
+  "description": "Pine Eclipse",
+  "version": "0.0.1",
+  "publisher": "Anlprnc",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pine Eclipse",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pine Eclipse-color-theme.json"
+      }
+    ]
+  }
+}
