@@ -2,8 +2,9 @@
   "name": "pine-eclipse",
   "displayName": "Pine Eclipse",
   "description": "Pine Eclipse",
+  "icon": "images/rose-pine-logo.png",
   "version": "0.0.1",
-  "publisher": "Anlprnc",
+  "publisher": "anlprnc",
   "engines": {
     "vscode": "^1.99.0"
   },
